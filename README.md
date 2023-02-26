@@ -1,1 +1,1 @@
-This is a sample demo package, logs a message to console.
+## This is a sample demo package, logs a message to console.
