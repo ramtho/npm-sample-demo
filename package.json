@@ -1,14 +1,14 @@
 {
   "name": "@ramtho/sample-demo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "sample demo module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-	"type": "git",
-	"url": "https://github.com/ramtho/npm-sample-demo.git"
+    "type": "git",
+    "url": "https://github.com/ramtho/npm-sample-demo.git"
   },
   "author": "Ramesh Thodengala",
   "license": "ISC"
